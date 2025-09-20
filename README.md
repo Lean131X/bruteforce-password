@@ -29,11 +29,9 @@ Reflection
 
 Execution time grows significantly when the password is longer or when the alphabet includes more characters (uppercase, numbers, symbols).
 
-Short passwords like "abc" can be found in milliseconds.
+The interesting part came when I added uppercase letters, numbers, and symbols. The number of attempts grew so much that it made me realize why people always say we should use complex passwords. With every new character, the difficulty increases a lot.  
 
-A password with 8+ characters including uppercase, lowercase, numbers, and symbols generates billions of possible combinations, making brute force attacks impractical.
-
-This demonstrates the importance of using long, unique, and secure passwords.
+What I take from this project is that even a beginner-level script like mine can expose how weak a simple password really is. From now on, I’ll be more careful with my own passwords, and I also understand better why websites insist on using at least 8 characters, a number, and a symbol. It’s not just a rule — it really makes a big difference.
 
 
 Repository files:
