@@ -42,3 +42,8 @@ bruteforce.py: Main script with the brute force algorithm.
 
 README.md: Documentation with instructions, examples, and reflection.
 
+
+## 📷 Demo screenshot
+
+![Program running](screenshotbruteforce.png)
+
