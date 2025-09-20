@@ -31,7 +31,7 @@ Execution time grows significantly when the password is longer or when the alpha
 
 The interesting part came when I added uppercase letters, numbers, and symbols. The number of attempts grew so much that it made me realize why people always say we should use complex passwords. With every new character, the difficulty increases a lot.  
 
-What I take from this activity is that even a beginner-level script like mine can expose how weak a simple password really is. From now on, I’ll be more careful with my own passwords, and I also understand better why websites insist on using at least 8 characters, a number, and a symbol. It’s not just a rule — it really makes a big difference.
+What I take from this activity is that even a beginner script like mine can expose how weak a simple password really is. From now on, I’ll be more careful with my own passwords, and I also understand better why websites insist on using at least 8 characters, a number, and a symbol that it really makes a big difference.
 
 
 Repository files:
