@@ -24,10 +24,6 @@ Example output
    Attempts made: 9339544
    Time taken: 0.5667 seconds
    (The number of attempts and time may vary depending on your computer’s speed.)
+```
 
 
-
-
-
-
-   
