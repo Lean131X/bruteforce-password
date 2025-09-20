@@ -12,35 +12,5 @@ This project implements a simple **controlled brute force** algorithm in Python 
    cd bruteforce-password
 Make sure you have Python 3 installed.
 Check with:
-
-bash
-Copiar código
+```bash
 python --version
-Run the script:
-
-bash
-Copiar código
-python bruteforce.py
-📌 Example output
-If the secret password is "yaq@", the output could be:
-
-yaml
-Copiar código
-Password found: yaq@
-Attempts made: 9393544
-Time taken: 0.5667 seconds
-(The number of attempts and time may vary depending on your computer’s speed.)
-
-🔎 Reflection
-Execution time grows significantly when the password is longer or when the alphabet includes more characters (uppercase, numbers, symbols).
-
-Short passwords like "abc" can be found in milliseconds.
-
-A password with 8+ characters including uppercase, lowercase, numbers, and symbols generates billions of possible combinations, making brute force attacks impractical.
-
-👉 This demonstrates the importance of using long, unique, and secure passwords.
-
-📂 Repository files
-bruteforce.py: Main script with the brute force algorithm.
-
-README.md: Documentation with instructions, examples, and reflection.
