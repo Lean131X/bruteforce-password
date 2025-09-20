@@ -4,7 +4,7 @@ This project implements a simple **controlled brute force** algorithm in Python 
 
 ---
 
-## 🚀 How to run the program
+## How to run the program
 
 1. Clone this repository or download the files.
    ```bash
@@ -23,7 +23,10 @@ Example output
    Password found: yaQ@
    Attempts made: 9339544
    Time taken: 0.5667 seconds
-(The number of attempts and time may vary depending on your computer’s speed.)
+   (The number of attempts and time may vary depending on your computer’s speed.)
+
+
+
 
 
 
