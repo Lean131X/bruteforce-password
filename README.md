@@ -35,7 +35,8 @@ A password with 8+ characters including uppercase, lowercase, numbers, and symbo
 
 This demonstrates the importance of using long, unique, and secure passwords.
 
-Repository files
+
+Repository files:
 
 bruteforce.py: Main script with the brute force algorithm.
 
