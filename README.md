@@ -33,5 +33,11 @@ Short passwords like "abc" can be found in milliseconds.
 
 A password with 8+ characters including uppercase, lowercase, numbers, and symbols generates billions of possible combinations, making brute force attacks impractical.
 
-👉 This demonstrates the importance of using long, unique, and secure passwords.
+This demonstrates the importance of using long, unique, and secure passwords.
+
+Repository files
+
+bruteforce.py: Main script with the brute force algorithm.
+
+README.md: Documentation with instructions, examples, and reflection.
 
